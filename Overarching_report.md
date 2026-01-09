@@ -2,13 +2,6 @@
 
 **By: Maxx Vercouteren & Mark Geeraerts**
 
-## Table of contents
-
-1. [Week 1](#Week1)
-2. [Week 2](#Week2)
-
-3. [Week 3](#paragraph2)
-
 ## Week 2.1: Water in the Atmosphere: How much? <a name="Week1"></a>
 
 Here we will analyse numerically the vertical profile of the water vapor specific humidity in the
